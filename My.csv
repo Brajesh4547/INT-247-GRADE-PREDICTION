@@ -1,0 +1,108 @@
+0,Termid,RegdNo,Course,Grade,CA_100,MTT_50,ETT_100,ETP_100,Course_Att,MHRDName,CA_1,CA_2,CA_3,CA_4,Height,Weight,ScholarType,Direction,Gender,Medium,CourseType,ProgramType
+2149,318192,1663776,LAX188,B+,55.0,,,74.0,100.0,Bachelor of Science (Honours) (Chemistry ),10.0,31.0,5.0,9.0,173,89,Day Scholar,West,Female,Regional,Theory,UG
+2150,318192,1663776,LAX799,A,89.0,,,67.0,,Bachelor of Science (Honours) (Chemistry ),20.0,15.0,33.0,21.0,173,89,Day Scholar,West,Female,Regional,Theory,UG
+2151,318192,1663776,LAX810,A+,69.0,35.0,76.0,,100.0,Bachelor of Science (Honours) (Chemistry ),14.0,42.0,11.0,2.0,173,89,Day Scholar,West,Female,Regional,Theory,UG
+7249,318192,2790776,LAX188,B+,68.0,,,64.0,100.0,Bachelor of Science (Honours) (Chemistry ),16.0,20.0,6.0,26.0,176,95,Day Scholar,East,Female,Regional,Theory,UG
+7250,318192,2790776,LAX799,B+,75.0,,,72.0,,Bachelor of Science (Honours) (Chemistry ),51.0,6.0,12.0,6.0,176,95,Day Scholar,East,Female,Regional,Theory,UG
+7251,318192,2790776,LAX810,O,69.0,47.0,92.0,,100.0,Bachelor of Science (Honours) (Chemistry ),35.0,26.0,8.0,0.0,176,95,Day Scholar,East,Female,Regional,Theory,UG
+8450,218192,3075776,LAX1093,B+,73.0,24.0,66.0,,78.0,Bachelor of Science (Honours) (Chemistry ),68.0,2.0,0.0,3.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8451,218192,3075776,LAX1421,A,76.0,25.0,75.0,,88.0,Bachelor of Science (Honours) (Chemistry ),64.0,10.0,1.0,1.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8452,218192,3075776,LAX1422,A+,72.0,22.0,88.0,,93.0,Bachelor of Science (Honours) (Chemistry ),70.0,0.0,1.0,1.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8453,218192,3075776,LAX1423,A+,85.0,,,80.0,92.0,Bachelor of Science (Honours) (Chemistry ),31.0,12.0,21.0,21.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8454,218192,3075776,LAX1424,A+,94.0,,,80.0,100.0,Bachelor of Science (Honours) (Chemistry ),17.0,75.0,0.0,2.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8455,218192,3075776,LAX1425,A+,67.0,39.0,82.0,,97.0,Bachelor of Science (Honours) (Chemistry ),18.0,44.0,2.0,3.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8456,218192,3075776,LAX1426,A,70.0,40.0,76.0,,98.0,Bachelor of Science (Honours) (Chemistry ),38.0,29.0,2.0,1.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8457,218192,3075776,LAX1427,B+,74.0,13.0,63.0,,85.0,Bachelor of Science (Honours) (Chemistry ),52.0,14.0,3.0,5.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+8458,218192,3075776,LAX1428,A,79.0,,,82.0,98.0,Bachelor of Science (Honours) (Chemistry ),17.0,31.0,0.0,31.0,151,68,Hostler,South,Female,Hindi,Theory,UG
+10271,218192,3522776,LAX1093,B+,72.0,23.0,58.0,,75.0,Bachelor of Science (Honours) (Chemistry ),49.0,7.0,3.0,13.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10272,218192,3522776,LAX1421,E,39.0,18.0,0.0,,69.0,Bachelor of Science (Honours) (Chemistry ),13.0,24.0,2.0,0.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10273,218192,3522776,LAX1422,E,44.0,20.0,0.0,,85.0,Bachelor of Science (Honours) (Chemistry ),43.0,1.0,0.0,0.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10274,218192,3522776,LAX1423,E,79.0,,,0.0,85.0,Bachelor of Science (Honours) (Chemistry ),74.0,1.0,3.0,1.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10275,218192,3522776,LAX1424,A,79.0,,,76.0,86.0,Bachelor of Science (Honours) (Chemistry ),68.0,4.0,0.0,7.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10276,218192,3522776,LAX1425,E,59.0,22.0,0.0,,79.0,Bachelor of Science (Honours) (Chemistry ),52.0,7.0,0.0,0.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10277,218192,3522776,LAX1426,E,70.0,35.0,0.0,,81.0,Bachelor of Science (Honours) (Chemistry ),59.0,11.0,0.0,0.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10278,218192,3522776,LAX1427,E,55.0,15.0,0.0,,68.0,Bachelor of Science (Honours) (Chemistry ),48.0,3.0,3.0,1.0,153,76,Hostler,West,Female,Regional,Theory,UG
+10279,218192,3522776,LAX1428,B+,63.0,,,81.0,62.0,Bachelor of Science (Honours) (Chemistry ),27.0,13.0,5.0,18.0,153,76,Hostler,West,Female,Regional,Theory,UG
+11774,318192,3856776,LAX188,A,73.0,,,69.0,100.0,Bachelor of Science (Honours) (Chemistry ),41.0,20.0,11.0,1.0,151,49,Hostler,West,Female,English,Theory,UG
+11775,318192,3856776,LAX799,B+,73.0,,,51.0,,Bachelor of Science (Honours) (Chemistry ),10.0,3.0,21.0,39.0,151,49,Hostler,West,Female,English,Theory,UG
+11776,318192,3856776,LAX810,A,62.0,37.0,66.0,,100.0,Bachelor of Science (Honours) (Chemistry ),55.0,7.0,0.0,0.0,151,49,Hostler,West,Female,English,Theory,UG
+19289,318192,5522776,LAX188,O,94.0,,,88.0,100.0,Bachelor of Science (Honours) (Chemistry ),31.0,31.0,25.0,7.0,176,79,Day Scholar,West,Female,Regional,Theory,UG
+19290,318192,5522776,LAX799,B+,68.0,,,59.0,,Bachelor of Science (Honours) (Chemistry ),56.0,9.0,0.0,3.0,176,79,Day Scholar,West,Female,Regional,Theory,UG
+19291,318192,5522776,LAX810,O,97.0,42.0,90.0,,100.0,Bachelor of Science (Honours) (Chemistry ),15.0,34.0,34.0,14.0,176,79,Day Scholar,West,Female,Regional,Theory,UG
+22914,218192,6273776,LAX1093,B+,80.0,34.0,40.0,,80.0,Bachelor of Science (Honours) (Chemistry ),64.0,5.0,2.0,9.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22915,218192,6273776,LAX1421,B,45.0,23.0,49.0,,88.0,Bachelor of Science (Honours) (Chemistry ),4.0,27.0,12.0,2.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22916,218192,6273776,LAX1422,A,67.0,30.0,62.0,,87.0,Bachelor of Science (Honours) (Chemistry ),10.0,35.0,7.0,15.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22917,218192,6273776,LAX1423,A,80.0,,,84.0,92.0,Bachelor of Science (Honours) (Chemistry ),21.0,32.0,3.0,24.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22918,218192,6273776,LAX1424,A+,89.0,,,80.0,93.0,Bachelor of Science (Honours) (Chemistry ),8.0,50.0,29.0,2.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22919,218192,6273776,LAX1425,B+,36.0,29.0,76.0,,89.0,Bachelor of Science (Honours) (Chemistry ),13.0,8.0,10.0,5.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22920,218192,6273776,LAX1426,A+,71.0,37.0,86.0,,91.0,Bachelor of Science (Honours) (Chemistry ),26.0,0.0,26.0,19.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22921,218192,6273776,LAX1427,A,62.0,13.0,89.0,,85.0,Bachelor of Science (Honours) (Chemistry ),28.0,33.0,1.0,0.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+22922,218192,6273776,LAX1428,A,72.0,,,89.0,93.0,Bachelor of Science (Honours) (Chemistry ),36.0,11.0,3.0,22.0,168,51,Hostler,South,Female,Hindi,Theory,UG
+24146,218192,6567776,LAX1093,B+,77.0,29.0,53.0,,91.0,Bachelor of Science (Honours) (Chemistry ),29.0,25.0,21.0,2.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24147,218192,6567776,LAX1421,D,49.0,8.0,36.0,,97.0,Bachelor of Science (Honours) (Chemistry ),45.0,1.0,0.0,3.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24148,218192,6567776,LAX1422,B+,53.0,9.0,65.0,,95.0,Bachelor of Science (Honours) (Chemistry ),32.0,14.0,0.0,7.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24149,218192,6567776,LAX1423,B+,80.0,,,66.0,87.0,Bachelor of Science (Honours) (Chemistry ),46.0,19.0,9.0,6.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24150,218192,6567776,LAX1424,A+,87.0,,,81.0,93.0,Bachelor of Science (Honours) (Chemistry ),62.0,16.0,2.0,7.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24151,218192,6567776,LAX1425,D,32.0,17.0,39.0,,97.0,Bachelor of Science (Honours) (Chemistry ),31.0,0.0,1.0,0.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24152,218192,6567776,LAX1426,A,78.0,30.0,75.0,,93.0,Bachelor of Science (Honours) (Chemistry ),69.0,0.0,3.0,6.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24153,218192,6567776,LAX1427,C,70.0,12.0,40.0,,93.0,Bachelor of Science (Honours) (Chemistry ),57.0,7.0,3.0,3.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+24154,218192,6567776,LAX1428,A,71.0,,,91.0,93.0,Bachelor of Science (Honours) (Chemistry ),21.0,8.0,31.0,11.0,172,41,Hostler,South,Female,Hindi,Theory,UG
+29900,318192,7808776,LAX188,A+,80.0,,,76.0,100.0,Bachelor of Science (Honours) (Chemistry ),54.0,23.0,2.0,1.0,171,68,Hostler,South,Female,Regional,Theory,UG
+29901,318192,7808776,LAX799,A+,97.0,,,77.0,,Bachelor of Science (Honours) (Chemistry ),30.0,59.0,4.0,4.0,171,68,Hostler,South,Female,Regional,Theory,UG
+29902,318192,7808776,LAX810,O,90.0,44.0,96.0,,100.0,Bachelor of Science (Honours) (Chemistry ),89.0,0.0,0.0,1.0,171,68,Hostler,South,Female,Regional,Theory,UG
+33097,218192,8560776,LAX1093,A,72.0,40.0,63.0,,89.0,Bachelor of Science (Honours) (Chemistry ),70.0,1.0,1.0,0.0,179,85,Hostler,East,Male,English,Theory,UG
+33098,218192,8560776,LAX1421,B+,64.0,22.0,70.0,,91.0,Bachelor of Science (Honours) (Chemistry ),5.0,52.0,0.0,7.0,179,85,Hostler,East,Male,English,Theory,UG
+33099,218192,8560776,LAX1422,A,67.0,23.0,69.0,,91.0,Bachelor of Science (Honours) (Chemistry ),65.0,0.0,2.0,0.0,179,85,Hostler,East,Male,English,Theory,UG
+33100,218192,8560776,LAX1423,A,83.0,,,78.0,94.0,Bachelor of Science (Honours) (Chemistry ),53.0,6.0,23.0,1.0,179,85,Hostler,East,Male,English,Theory,UG
+33101,218192,8560776,LAX1424,A+,88.0,,,78.0,100.0,Bachelor of Science (Honours) (Chemistry ),45.0,35.0,0.0,8.0,179,85,Hostler,East,Male,English,Theory,UG
+33102,218192,8560776,LAX1425,B+,52.0,27.0,60.0,,93.0,Bachelor of Science (Honours) (Chemistry ),39.0,7.0,0.0,6.0,179,85,Hostler,East,Male,English,Theory,UG
+33103,218192,8560776,LAX1426,A,80.0,40.0,76.0,,89.0,Bachelor of Science (Honours) (Chemistry ),29.0,24.0,23.0,4.0,179,85,Hostler,East,Male,English,Theory,UG
+33104,218192,8560776,LAX1427,A+,82.0,17.0,88.0,,91.0,Bachelor of Science (Honours) (Chemistry ),25.0,47.0,0.0,10.0,179,85,Hostler,East,Male,English,Theory,UG
+33105,218192,8560776,LAX1428,A,73.0,,,86.0,93.0,Bachelor of Science (Honours) (Chemistry ),53.0,15.0,5.0,0.0,179,85,Hostler,East,Male,English,Theory,UG
+33395,318192,8634776,LAX188,B,44.0,,,59.0,100.0,Bachelor of Science (Honours) (Chemistry ),9.0,23.0,10.0,2.0,151,72,Day Scholar,North,Male,Hindi,Theory,UG
+33396,318192,8634776,LAX799,A,89.0,,,76.0,,Bachelor of Science (Honours) (Chemistry ),6.0,23.0,50.0,10.0,151,72,Day Scholar,North,Male,Hindi,Theory,UG
+33397,318192,8634776,LAX810,A,60.0,30.0,80.0,,98.0,Bachelor of Science (Honours) (Chemistry ),1.0,18.0,2.0,39.0,151,72,Day Scholar,North,Male,Hindi,Theory,UG
+43759,318192,10951776,LAX188,O,95.0,,,96.0,100.0,Bachelor of Science (Honours) (Chemistry ),28.0,66.0,0.0,1.0,156,54,Hostler,West,Female,Hindi,Theory,UG
+43760,318192,10951776,LAX799,B+,66.0,,,64.0,,Bachelor of Science (Honours) (Chemistry ),42.0,2.0,0.0,22.0,156,54,Hostler,West,Female,Hindi,Theory,UG
+43761,318192,10951776,LAX810,O,94.0,44.0,89.0,,100.0,Bachelor of Science (Honours) (Chemistry ),36.0,9.0,24.0,25.0,156,54,Hostler,West,Female,Hindi,Theory,UG
+44560,318192,11110776,LAX188,B,66.0,,,45.0,100.0,Bachelor of Science (Honours) (Chemistry ),52.0,14.0,0.0,0.0,166,87,Day Scholar,South,Female,Hindi,Theory,UG
+44561,318192,11110776,LAX799,B,69.0,,,54.0,,Bachelor of Science (Honours) (Chemistry ),14.0,54.0,1.0,0.0,166,87,Day Scholar,South,Female,Hindi,Theory,UG
+44562,318192,11110776,LAX810,O,87.0,34.0,89.0,,100.0,Bachelor of Science (Honours) (Chemistry ),57.0,6.0,0.0,24.0,166,87,Day Scholar,South,Female,Hindi,Theory,UG
+44871,218192,11184776,LAX1421,A,76.0,27.0,72.0,,99.0,Bachelor of Science (Honours) (Chemistry ),51.0,19.0,1.0,5.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44872,218192,11184776,LAX1422,A+,82.0,24.0,88.0,,100.0,Bachelor of Science (Honours) (Chemistry ),82.0,0.0,0.0,0.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44873,218192,11184776,LAX1423,A+,90.0,,,83.0,98.0,Bachelor of Science (Honours) (Chemistry ),21.0,68.0,0.0,1.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44874,218192,11184776,LAX1424,A,89.0,,,71.0,100.0,Bachelor of Science (Honours) (Chemistry ),75.0,6.0,8.0,0.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44875,218192,11184776,LAX1425,B+,45.0,37.0,62.0,,99.0,Bachelor of Science (Honours) (Chemistry ),11.0,12.0,1.0,21.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44876,218192,11184776,LAX1426,A+,75.0,39.0,82.0,,100.0,Bachelor of Science (Honours) (Chemistry ),47.0,13.0,9.0,6.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44877,218192,11184776,LAX1427,A+,77.0,23.0,83.0,,100.0,Bachelor of Science (Honours) (Chemistry ),45.0,4.0,8.0,20.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44878,218192,11184776,LAX1428,A+,86.0,,,86.0,100.0,Bachelor of Science (Honours) (Chemistry ),21.0,46.0,4.0,15.0,155,55,Day Scholar,West,Female,English,Theory,UG
+44879,218192,11184776,LAX575,A+,75.0,33.0,76.0,,100.0,Bachelor of Science (Honours) (Chemistry ),35.0,35.0,1.0,4.0,155,55,Day Scholar,West,Female,English,Theory,UG
+45214,218192,11260776,LAX1421,B,66.0,29.0,38.0,,82.0,Bachelor of Science (Honours) (Chemistry ),23.0,40.0,3.0,0.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45215,218192,11260776,LAX1422,A,60.0,24.0,78.0,,89.0,Bachelor of Science (Honours) (Chemistry ),37.0,14.0,0.0,9.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45216,218192,11260776,LAX1423,A,82.0,,,75.0,96.0,Bachelor of Science (Honours) (Chemistry ),1.0,7.0,73.0,1.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45217,218192,11260776,LAX1424,A,89.0,,,74.0,98.0,Bachelor of Science (Honours) (Chemistry ),73.0,0.0,9.0,7.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45218,218192,11260776,LAX1425,B+,42.0,29.0,70.0,,87.0,Bachelor of Science (Honours) (Chemistry ),5.0,1.0,3.0,33.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45219,218192,11260776,LAX1426,A,79.0,40.0,72.0,,84.0,Bachelor of Science (Honours) (Chemistry ),69.0,9.0,0.0,1.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45220,218192,11260776,LAX1427,B+,69.0,22.0,75.0,,70.0,Bachelor of Science (Honours) (Chemistry ),36.0,16.0,12.0,5.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45221,218192,11260776,LAX1428,A+,81.0,,,89.0,93.0,Bachelor of Science (Honours) (Chemistry ),19.0,59.0,1.0,2.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+45222,218192,11260776,LAX575,B+,67.0,33.0,59.0,,79.0,Bachelor of Science (Honours) (Chemistry ),41.0,5.0,14.0,7.0,163,64,Hostler,North,Male,Hindi,Theory,UG
+48257,318192,11866776,LAX188,B,64.0,,,43.0,91.0,Bachelor of Science (Honours) (Chemistry ),19.0,6.0,27.0,12.0,163,73,Day Scholar,East,Male,English,Theory,UG
+48258,318192,11866776,LAX799,B+,81.0,,,59.0,,Bachelor of Science (Honours) (Chemistry ),28.0,15.0,36.0,2.0,163,73,Day Scholar,East,Male,English,Theory,UG
+48259,318192,11866776,LAX810,A,67.0,42.0,65.0,,87.0,Bachelor of Science (Honours) (Chemistry ),3.0,10.0,38.0,16.0,163,73,Day Scholar,East,Male,English,Theory,UG
+54182,118192,13129776,LAX1045,O,86.0,,,89.0,93.0,Bachelor of Science (Honours) (Chemistry ),12.0,66.0,2.0,6.0,184,80,Hostler,North,Female,English,Theory,UG
+54183,118192,13129776,LAX1046,O,89.0,35.0,86.0,,93.0,Bachelor of Science (Honours) (Chemistry ),76.0,8.0,3.0,2.0,184,80,Hostler,North,Female,English,Theory,UG
+54184,118192,13129776,LAX1383,A,94.0,32.0,66.0,,97.0,Bachelor of Science (Honours) (Chemistry ),91.0,3.0,0.0,0.0,184,80,Hostler,North,Female,English,Theory,UG
+54185,118192,13129776,LAX1386,A,73.0,,,88.0,87.0,Bachelor of Science (Honours) (Chemistry ),25.0,47.0,1.0,0.0,184,80,Hostler,North,Female,English,Theory,UG
+54186,118192,13129776,LAX1727,A,80.0,,62.0,,88.0,Bachelor of Science (Honours) (Chemistry ),26.0,31.0,13.0,10.0,184,80,Hostler,North,Female,English,Theory,UG
+54187,118192,13129776,LAX1728,A+,90.0,,,85.0,100.0,Bachelor of Science (Honours) (Chemistry ),56.0,21.0,7.0,6.0,184,80,Hostler,North,Female,English,Theory,UG
+54188,118192,13129776,LAX1729,O,95.0,42.0,93.0,,91.0,Bachelor of Science (Honours) (Chemistry ),94.0,0.0,1.0,0.0,184,80,Hostler,North,Female,English,Theory,UG
+54189,118192,13129776,LAX984,A,71.0,38.0,65.0,,91.0,Bachelor of Science (Honours) (Chemistry ),53.0,8.0,10.0,0.0,184,80,Hostler,North,Female,English,Theory,UG
+57193,318192,13816776,LAX188,A,91.0,,,62.0,100.0,Bachelor of Science (Honours) (Chemistry ),49.0,0.0,14.0,28.0,168,66,Hostler,East,Male,English,Theory,UG
+57194,318192,13816776,LAX799,A+,89.0,,,83.0,,Bachelor of Science (Honours) (Chemistry ),87.0,2.0,0.0,0.0,168,66,Hostler,East,Male,English,Theory,UG
+57195,318192,13816776,LAX810,O,89.0,43.0,88.0,,100.0,Bachelor of Science (Honours) (Chemistry ),38.0,7.0,1.0,43.0,168,66,Hostler,East,Male,English,Theory,UG
+62636,318192,14932776,LAX188,A,67.0,,,81.0,100.0,Bachelor of Science (Honours) (Chemistry ),29.0,4.0,25.0,9.0,173,69,Day Scholar,South,Female,Hindi,Theory,UG
+62637,318192,14932776,LAX799,A,87.0,,,72.0,,Bachelor of Science (Honours) (Chemistry ),40.0,20.0,15.0,12.0,173,69,Day Scholar,South,Female,Hindi,Theory,UG
+62638,318192,14932776,LAX810,A+,80.0,37.0,79.0,,100.0,Bachelor of Science (Honours) (Chemistry ),60.0,2.0,8.0,10.0,173,69,Day Scholar,South,Female,Hindi,Theory,UG
+63651,318192,15092776,LAX188,O,95.0,,,91.0,100.0,Bachelor of Science (Honours) (Chemistry ),32.0,12.0,15.0,36.0,173,90,Hostler,South,Female,English,Theory,UG
+63652,318192,15092776,LAX799,A,87.0,,,70.0,,Bachelor of Science (Honours) (Chemistry ),33.0,8.0,43.0,3.0,173,90,Hostler,South,Female,English,Theory,UG
+63653,318192,15092776,LAX810,O,95.0,47.0,90.0,,100.0,Bachelor of Science (Honours) (Chemistry ),18.0,66.0,6.0,5.0,173,90,Hostler,South,Female,English,Theory,UG
