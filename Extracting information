@@ -1,0 +1,15 @@
+import os
+import pandas as pd
+df = pd.read_csv('CA.csv')
+if os.path.isfile('My.csv'):
+    print("not create again");
+else:
+    lst =  [['Termid','RegdNo','Course','Grade','CA_100','MTT_50','ETT_100','ETP_100','Course_Att','MHRDName','CA_1','CA_2','CA_3','CA_4','Height','Weight','ScholarType','Direction','Gender','Medium','CourseType','ProgramType']]
+    d= pd.DataFrame(lst)
+    for i in range(df.Termid.count()):
+        if i == 0:
+            d.to_csv('My.csv',mode='a',header=False)
+        if df.MHRDName[i] == "Bachelor of Science (Honours) (Chemistry )" :
+            df.iloc[i:i+1,:].to_csv('My.csv',mode='a',header=False)
+        else:
+            pass
