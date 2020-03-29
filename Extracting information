@@ -16,32 +16,4 @@ else:
         else:
             pass
  
-#Here we are reading the CSV file.
- 
-import numpy as np
-import pandas as pd
-df=pd.read_csv("My.csv")
-df.head()
-df.shape
-df.isnull()
-df.isnull().sum()
 
-#Here we are droping the column which are having more null values because it can badly affect our accuracy
-
-df.dropna(axis=1)
-
-#here we are checking the outliers
-import matplotlib.pyplot as plt
-df['CA_100'].plot.box()
-df['MTT_50'].plot.box()
-df['ETT_100'].plot.box()
-df['ETP_100'].plot.box()
-df['CA_1'].plot.box()
-df['CA_2'].plot.box()
-df['CA_3'].plot.box()
-df['CA_4'].plot.box()
-
-
-df.describe()
-df.columns
-df.nunique()
