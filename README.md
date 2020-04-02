@@ -1,4 +1,4 @@
-# INT-247-PROJECT-ML-
+# INT-247-PROJECT-ML-(STUDENT GRADE PREDICTION)
 The project basically deals with how to predict the Grade of student based upon their performances using Different Clssification Techniques.In this project we have used so many different classification technique to get the best optimized result.
 The classification Technique are given as follows:
 (1)SUPPORT VECTOR MACHINE
@@ -19,7 +19,7 @@ The classification Technique are given as follows:
 ### (5).Here we will apply different classification technique to train and test our model and then predict the accuracy.
 ### (6).Here accuracy basically denotes the average percentage of students ,so we will compare it with Standard scalar of grading and print grading according to that percentage.
 
-### After performing all these Classification Technique we comw to the conclusion that SVM with polynomial kernel is giving worst accuracy as compared to other classifier.
+### After performing all these Classification Technique we come to the conclusion that SVM with polynomial kernel is giving worst accuracy as compared to other classifier.
 ### FRONT PAGE
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/Front.png)
 # LOGIN FORM
