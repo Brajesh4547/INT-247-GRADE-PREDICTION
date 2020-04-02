@@ -22,6 +22,16 @@ The classification Technique are given as follows:
 ### After performing all these Classification Technique we comw to the conclusion that SVM with polynomial kernel is giving worst accuracy as compared to other classifier.
 ### FRONT PAGE
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/Front.png)
+# LOGIN FORM
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg2.png)
+# ALGO CHOSING PAGE
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg3.png)
+# KERNEL CHOSING PAGE
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/Pg4.png)
+# YOUR ACADEMIC DETAIL FORM
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg5.png)
+# YOUR GRADE
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg6.png)
 
 
 
