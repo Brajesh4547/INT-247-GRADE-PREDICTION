@@ -27,3 +27,244 @@ df['CA_4'].plot.box()
 df.describe()
 df.columns
 df.nunique()
+//It is used to how many times a specific number is present in our dataset
+freq_df=df['CA_100'].value_counts()
+freq_df
+freq_df=df['CA_1'].value_counts()
+freq_df
+freq_df=df['CA_2'].value_counts()
+freq_df
+Name: CA_2, dtype: int64
+freq_df=df['CA_3'].value_counts()
+freq_df
+freq_df=df['CA_4'].value_counts()
+freq_df
+
+//It is used to plot graph and histogram on jupyter notebook
+import matplotlib.pyplot as plt
+%matplotlib inline
+import matplotlib.pyplot as plt
+%matplotlib inline
+df['CA_100'].plot.hist()
+df['MTT_50'].plot.hist()
+df['ETT_100'].plot.hist()
+df['ETP_100'].plot.hist()
+df['CA_1'].plot.hist()
+df['CA_2'].plot.hist()
+df['CA_3'].plot.hist()
+df['CA_4'].plot.hist()
+
+//To find the relation betweeen two attributes
+df.corr()
+
+
+//here we are ploting a graph to show correlation
+import seaborn as sns
+corr = df.corr()
+import seaborn as sns
+corr = df.corr()
+sns.heatmap(corr,xticklabels=corr.columns,
+        yticklabels=corr.columns)
+
+//To find the mumber of male and females
+male_studs = len(df[df['Gender'] == 'Male'])
+female_studs = len(df[df['Gender'] == 'Female'])
+print('Number of male students:',male_studs)
+print('Number of female students:',female_studs)
+
+//ploting number of male and female students on graph
+import seaborn as sns
+d = sns.countplot(df['Gender'])
+d.axes.set_title("Distribution of Gender")
+d.axes.set_xlabel("Gender")
+d.axes.set_ylabel("Total Student")
+Text(0,0.5,'Total Student')
+
+//To find no of hostelers and day scholars
+male_studs1 = len(df[df['ScholarType'] == 'Day Scholar'])
+female_studs2 = len(df[df['ScholarType'] == 'Hostler'])
+print('Number of DayScholar students:',male_studs1)
+print('Number of Hosteler students:',female_studs2)
+
+//plot no. of hostelers and day scholars  on graph
+import seaborn as sns
+d = sns.countplot(df['ScholarType'])
+d.axes.set_title("Resedent")
+d.axes.set_xlabel("ScholarType")
+d.axes.set_ylabel("Total Student")
+Text(0,0.5,'Total Student')
+
+//to find no,. of students who speaks different languages
+male_studs11 = len(df[df['Medium'] == 'English'])
+female_studs21 = len(df[df['Medium'] == 'Hindi'])
+female_studs31 = len(df[df['Medium'] == 'Regional'])
+print('Number of  students who speaks English:',male_studs11)
+print('Number of  students who speaks Hindi:',female_studs21)
+print('Number of  students who speaks Regional:',female_studs31)
+
+
+//Plot the no. of students who speaks different language
+import seaborn as sns
+d = sns.countplot(df['Medium'])
+d.axes.set_title("Medium Type")
+d.axes.set_xlabel("Medium")
+d.axes.set_ylabel("Total Student")
+
+
+//Here we are dividing our data into two parts one is for training and other is for testing
+X=df[['CA_100','CA_1','CA_2','CA_3','CA_4',]]                           //Training part
+X
+Input:
+y=df['ScholarType'].values     //Testing part
+y
+
+//Applying SVM using different Kernel
+
+//Here we are using Polynomial Kernel
+
+from sklearn.model_selection import train_test_split
+X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.3)
+from sklearn.svm import SVC                                                       //importing classifier
+svc=SVC(kernel='poly')
+svc.fit(X_train,y_train)                                                   //fitting the model
+y_predict=svc.predict(X_test)
+from sklearn.metrics import accuracy_score
+x=accuracy_score(y_predict,y_test)                  //testing the model(x shows that average   //percentage  of student with accuracy)
+if(0.9<x<1.0):
+    print("O Grade");
+elif(0.8<x<0.9):
+    print("A+ Grade");
+elif(0.7<x<0.8):
+    print("A Grade");
+elif(0.6<x<0.7):
+    print("B+ Grade");
+else:
+    print("E Grade");
+
+
+//Using Linear Kernel
+from sklearn.model_selection import train_test_split
+X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.3)
+from sklearn.svm import SVC
+svc=SVC(kernel='linear')                                                  //here we used linear kernel
+svc.fit(X_train,y_train)
+ y_predict=svc.predict(X_test)
+from sklearn.metrics import accuracy_score
+d=accuracy_score(y_predict,y_test)
+if(0.9<d<1.0):
+    print("O Grade");
+elif(0.8<d<0.9):
+    print("A+ Grade");
+elif(0.7<d<0.8):
+    print("A Grade");
+elif(0.6<d<0.7):
+    print("B+ Grade");
+else:
+    print("E Grade");
+
+
+//using Rbf kernel
+from sklearn.model_selection import train_test_split
+X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.3)
+from sklearn.svm import SVC
+svc=SVC(kernel='rbf')                                      //here we used rbf kernel
+svc.fit(X_train,y_train)
+y_predict=svc.predict(X_test)
+from sklearn.metrics import accuracy_score      //Importing accuracy_score model for testing
+p=accuracy_score(y_predict,y_test)
+if(0.9<p<1.0):
+    print("O Grade");
+elif(0.8<p<0.9):
+    print("A+ Grade");
+elif(0.7<p<0.8):
+    print("A Grade");
+elif(0.6<p<0.7):
+    print("B+ Grade");
+else:
+    print("E Grade");
+
+
+//Applying Decision Tree Algorithm
+from sklearn.preprocessing import StandardScaler                 
+sc=StandardScaler()                  //Importing StandardScaler classifier
+X=sc.fit_transform(X)
+from sklearn.preprocessing import StandardScaler
+sc=StandardScaler()
+X=sc.fit_transform(X)
+from sklearn.model_selection import train_test_split
+x_train,x_test,y_train,y_test=train_test_split(X,y,test_size=0.5)
+from sklearn.tree import DecisionTreeClassifier
+dt=DecisionTreeClassifier()
+dt.fit(x_train,y_train)
+y_pred=dt.predict(x_test)
+from sklearn.metrics import accuracy_score
+m=accuracy_score(y_pred,y_test)
+if(0.9<m<1.0):
+    print("O Grade");
+elif(0.8<m<0.9):
+    print("A+ Grade");
+elif(0.7<m<0.8):
+    print("A Grade");
+elif(0.6<m<0.7):
+    print("B+ Grade");
+else:
+    print("E Grade");
+
+//Applying random Forest Algorithm
+from sklearn.preprocessing import StandardScaler
+sc=StandardScaler()
+X=sc.fit_transform(X)
+from sklearn.model_selection import train_test_split
+x_train,x_test,y_train,y_test=train_test_split(X,y,test_size=0.3)
+from sklearn.ensemble import RandomForestClassifier
+rf=RandomForestClassifier()
+rf.fit(x_train,y_train)
+from sklearn.ensemble import RandomForestClassifier
+rf=RandomForestClassifier()
+rf.fit(x_train,y_train)
+y=rf.predict(x_test)
+from sklearn.metrics import accuracy_score
+n=accuracy_score(y,y_test)
+if(0.9<n<1.0):
+    print("O Grade");
+elif(0.8<n<0.9):
+    print("A+ Grade");
+elif(0.7<n<0.8):
+    print("A Grade");
+elif(0.6<n<0.7):
+    print("B+ Grade");
+else:
+    print("E Grade");
+
+
+//Applying Logistic Regression
+from sklearn.linear_model import LogisticRegression
+clf2=LogisticRegression()
+clf2.fit(x_train,y_train)
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+clf3=SVC()
+clf3.fit(x_train,y_train)
+y=clf3.predict(x_test)
+from sklearn.metrics import accuracy_score
+k=accuracy_score(y,y_test)
+if(0.9<k<1.0):
+    print("O Grade");
+elif(0.8<k<0.9):
+    print("A+ Grade");
+elif(0.7<k<0.8):
+    print("A Grade");
+elif(0.6<k<0.7):
+    print("B+ Grade");
+else:
+    print("E Grade");
+//given below are the accuracy predicted by different classification technique
+print("The grade predicted by different classification algorithm are given below::::::::");
+print("The accuracy predicted by SVM Using Polynomial Kernel is",x);
+print("The accuracy predicted by SVM Using linear Kernel is",d);
+print("The accuracy predicted by SVM Using rbf Kernel is",p);
+print("The accuracy predicted using Random forest is",n);
+print("The accuracy predicted using Logistic Regression",k);
+print("The accuracy predicted using Decision Tree is",m);
+
+
