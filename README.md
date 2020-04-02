@@ -31,7 +31,7 @@ The classification Technique are given as follows:
 # YOUR ACADEMIC DETAIL FORM
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg5.png)
 # YOUR GRADE
-![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg6.png)
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/Pg6.png)
 
 
 
