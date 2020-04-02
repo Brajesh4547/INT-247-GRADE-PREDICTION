@@ -9,7 +9,7 @@ The classification Technique are given as follows:
 (6)NAIVE BAYES ALGO.
  
 # STEPS TO MAKE THIS PROJECT:
-# (1)Extracted our dataset from main result dataset as we have to only take those dataset in which studennts are from Bachelor of Science(Hons)Chemistry.
+## (1)Extracted our dataset from main result dataset as we have to only take those dataset in which studennts are from Bachelor of Science(Hons)Chemistry.
 
 # (2).Apply preprocessing on data like finding the missing values,null values,outliers etc.
 
