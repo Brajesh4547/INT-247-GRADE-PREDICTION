@@ -27,7 +27,7 @@ The classification Technique are given as follows:
 # ALGO CHOSING PAGE
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg3.png)
 # KERNEL CHOSING PAGE
-![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/Pg4.png)
+![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg4.png)
 # YOUR ACADEMIC DETAIL FORM
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg5.png)
 # YOUR GRADE
