@@ -20,7 +20,7 @@ The classification Technique are given as follows:
 ### (6).Here accuracy basically denotes the average percentage of students ,so we will compare it with Standard scalar of grading and print grading according to that percentage.
 
 ### After performing all these Classification Technique we come to the conclusion that SVM with polynomial kernel is giving worst accuracy as compared to other classifier.
-### FRONT PAGE
+### HOME PAGE
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/Front.png)
 # LOGIN FORM
 ![](https://github.com/Brajesh4547/INT-247-GRADE-PREDICTION/blob/master/pg2.png)
